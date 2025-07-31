@@ -18,5 +18,5 @@ A modern responsive food delivery website built with HTML, CSS, and a touch of J
 
 ## 📸 Live Demo
 
-[🔗 View the live site](https://hamza-elboudrary.github.io/omnifood-project)
+[🔗 View the live site](https://hamza-elboudrary.github.io/Omnifood-Project/)
 ![Live project](project.png)
