@@ -1,4 +1,22 @@
 # Omnifood
 
-Landing page website for a fictional food delivery company  called **"OMNIFOOD"** build using modern **HTML5** , **CSS3** ,  and **JAVASCRIPT**.
+A modern responsive food delivery website built with HTML, CSS, and a touch of JavaScript.
+
+## 🚀 Features
+
+- Responsive layout for mobile, tablet, and desktop
+- Reusable components and sections
+- Clean, modern UI
+- Semantic HTML and BEM methodology
+- Hosted using GitHub Pages
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3 (Flexbox, Grid)
+- JavaScript (basic interactivity)
+
+## 📸 Live Demo
+
+[🔗 View the live site](https://hamza-elboudrary.github.io/Omnifood-My-project)
 ![Live project](project.png)
