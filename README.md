@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Omnifood
 
 A modern responsive food delivery website built with HTML, CSS, and a touch of JavaScript.
@@ -20,3 +21,6 @@ A modern responsive food delivery website built with HTML, CSS, and a touch of J
 
 [🔗 View the live site](https://hamza-elboudrary.github.io/Omnifood-Project/)
 ![Live project](project.png)
+=======
+# Omnifood-Project
+>>>>>>> 62435009d0f72bffe8a7e0a9d22d4809ef7baf45
