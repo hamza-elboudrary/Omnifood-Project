@@ -23,4 +23,4 @@ A modern responsive food delivery website built with HTML, CSS, and a touch of J
 ![Live project](project.png)
 =======
 # Omnifood-Project
->>>>>>> 62435009d0f72bffe8a7e0a9d22d4809ef7baf45
+
