@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Omnifood
 
 A modern responsive food delivery website built with HTML, CSS, and a touch of JavaScript.
